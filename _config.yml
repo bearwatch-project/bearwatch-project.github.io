@@ -21,16 +21,9 @@
 title: BearWatch
 # email: lough@queensu.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  BearWatch seeks to create an alternate way to monitor polar bears 
-  across the Canadian Arctic using non-invasive genomics tools and 
-  Inuit Qaujimajatuqangit. BearWatch is a partnership among northern 
-  communities in Nunavut and the Inuvialuit Settlement Region, HTAs in 
-  Gjoa Haven and Coral Harbor, the Inuvialuit Game Council, 
-  the governments of Nunavut, Northwest Territories, and Yukon, 
-  the Canadian Rangers, and researchers and students at Queen's University, 
-  University of Toronto, University of Calgary, Trent University, 
-  McGill University, University of British Columbia, University of 
-  Northern British Columbia, and the Institut National de la Recherche Scientifique.
+  BearWatch is a partnership between northern communities and governments, 
+  and various universities that seeks to create a new non-invasive means
+  to monitor polar bears using genomcis and Inuit Qaujimajatuqangit. 
 domain: "bearwatch-project.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bearwatch-project.github.io" # the base hostname & protocol for your site, e.g. http://example.com
