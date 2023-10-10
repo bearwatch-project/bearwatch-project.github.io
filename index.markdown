@@ -109,9 +109,11 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 - Tschritter, C., P. van Coeverden de Groot, M. Branigan, M. Dyck, and S.C. Lougheed. A multiplexed magnetic-capture tool for monitoring polar bear (*Ursus maritimus*) health and wildlife disease surveillance. Talk. 70th Annual International Conference of the Wildlife Disease Association (WDA). Madison Wisconsin. July 2022.
 
+
 &nbsp;  
 
 If you have questions please contact: Peter VC de Groot - <degrootp@queensu.ca>, Graham Whitelaw - <whitelaw@queensu.ca> or Stephen Lougheed <steve.lougheed@queensu.ca>
+
 
 &nbsp;  
 
