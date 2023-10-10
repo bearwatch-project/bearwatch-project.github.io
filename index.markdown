@@ -74,7 +74,12 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 - Lougheed, S.C. BearWatch: Monitoring Impacts of Arctic Climate Change using Polar Bears, Genomics and Traditional Ecological Knowledge. Presentation to the Wildlife Management Advisory Council (NWT). Sept. 17, 2020.
 
 - Lougheed, S.C. Using genetics tools to study wildlife populations. Hunters and Trappers Association of Gjoa Haven. Gjoa Haven, Nunavut, Canada, August, 2021.
-- Lougheed, S.C. Using genetics tools to study wildlife populations. Hunters and Trappers Association of Coral Harbour. Coral Harbour, Nunavut, Canada, August, 2021.- Lougheed, S.C. Review of BearWatch findings for non-invasive monitoring. Coral Harbour, Nunavut, Canada, August, 2021.- Lougheed, S.C. BearWatch: Monitoring Impacts of Arctic Climate Change using Polar Bears, Genomics and Traditional Ecological Knowledge. Progress report for the Inuvialuit Game Council. June 15, 2021
+
+- Lougheed, S.C. Using genetics tools to study wildlife populations. Hunters and Trappers Association of Coral Harbour. Coral Harbour, Nunavut, Canada, August, 2021.
+
+- Lougheed, S.C. Review of BearWatch findings for non-invasive monitoring. Coral Harbour, Nunavut, Canada, August, 2021.
+
+- Lougheed, S.C. BearWatch: Monitoring Impacts of Arctic Climate Change using Polar Bears, Genomics and Traditional Ecological Knowledge. Progress report for the Inuvialuit Game Council. June 15, 2021
 
 &nbsp; 
 
@@ -97,7 +102,8 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 - Hayward, K., et al. New ways of non-invasively monitoring Canada’s polar bear populations. Queen’s Northern Research Symposium, Kingston, Canada, April 13, 2021.
 
 - Vanderluit, S., et al. Landscape genetics of sea ice-dwelling polar bears in the Canadian Arctic. Queen’s Northern Research Symposium, Kingston, Canada, April 13, 2021.
-- Wainwright, H., et al. Monitoring Canada’s polar bear populations using genetic mark and recapture methods. Queen’s Northern Research Symposium. April 13, 2021
+
+- Wainwright, H., et al. Monitoring Canada’s polar bear populations using genetic mark and recapture methods. Queen’s Northern Research Symposium. April 13, 2021
 
 - de Wildt, Saskia. 2022. Science at ArcticNet 2022. Situated performance(s). Studio Gingertheworld. [Link to image at ArcticNet](https://bit.ly/mxscience22) [Link to zine image](https://bit.ly/zinegtwbw)
 
@@ -107,7 +113,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 If you have questions please contact: Peter VC de Groot - <degrootp@queensu.ca>, Graham Whitelaw - <whitelaw@queensu.ca> or Stephen Lougheed <steve.lougheed@queensu.ca>
 
-
+&nbsp;
 
 *Last updated 10 October 2023*
 
