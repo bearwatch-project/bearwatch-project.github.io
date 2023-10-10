@@ -120,4 +120,3 @@ If you have questions please contact: Peter VC de Groot - <degrootp@queensu.ca>,
 
 
 ![](assets/gc.png) ![](assets/og.png)
-]()
