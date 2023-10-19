@@ -43,7 +43,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-- The BearWatch Toolkit. Overview of the Genomics Tools Developed for Non-invasive Monitoring. 10 min.
+- The BearWatch Toolkit. Overview of Genomics Tools for Non-invasive Monitoring. Documentary produced by Pinegrove Productions 10 min.
   <br /><br />
   <iframe width="736" height="414" src="https://www.youtube.com/embed/xO96NxWSaLc" title="The Bearwatch Toolkit. Genomics tools for non-invasive monitoring of polar bears across the Arctic." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
