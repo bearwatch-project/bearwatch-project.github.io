@@ -67,12 +67,13 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 - News Release - Queen's University researchers receive Genome Canada funding for project track impact of climate change on polar bears. Thursday, December 8, 2016. [Link to article](https://www.queensu.ca/gazette/media/news-release-queens-university-researchers-receive-genome-canada-funding-project-track-impact)
 
-
 - Bearing the brunt of change. Queen's Gazette Article. Chris Moffatt Armes. December 8, 2016. [Link to Gazette article](https://www.queensu.ca/gazette/stories/bearing-brunt-change)
 
-- Study of Southampton Island polar bear dens to start this spring. Nunatsiaq News February 17, 2020. By Elaine Anselmi. [Link to Nunatsiaq News article](https://nunatsiaq.com/stories/article/study-of-southampton-island-polar-bear-dens-to-start-this-spring/)
+- Study of Southampton Island polar bear dens to start this spring. Nunatsiaq News. February 17, 2020. By Elaine Anselmi. [Link to Nunatsiaq News article](https://nunatsiaq.com/stories/article/study-of-southampton-island-polar-bear-dens-to-start-this-spring/)
 
 - Polar bears: A sentinel of Arctic environmental change. Queen's Gazette Article. Wednesday March 10, 2021. By Ishita Aggarwal. [Link to Gazette article](https://www.queensu.ca/gazette/stories/polar-bears-sentinel-arctic-environmental-change)
+
+- Poop and prints could offer fresh insights on polar bear health. Cabin Radio. January 5, 2023. Chloe Williams [Link to Cabin Radio article](https://cabinradio.ca/112849/news/beaufort-delta/poop-and-prints-could-offer-fresh-insights-on-polar-bear-health/)
 
 - Genomics as reconciliation. Genome Canada news piece on the TRC call to action. August 14 2023. [Link to article](https://genomecanada.ca/genomics-as-reconciliation)
 
@@ -97,14 +98,13 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 ## Conference Presentations
 
 
+- Jensen, E., P. VC de Groot, M. Branigan, M. Dyck, L. Waits and S. C. Lougheed. Genomic tools to enable non-invasive monitoring of polar bears.  Talk at ArcticNet 2018. Ottawa, ON.
 
-- Genomic tools to enable non-invasive monitoring of polar bears. Evelyn L. Jensen, P. VC de Groot, M. Branigan, M. Dyck, L. Waits and S. C. Lougheed. Talk at ArcticNet 2018. Ottawa, ON.
+- Jensen, E. et al. Genomic approaches for non-invasive scat-based monitoring of polar bears. Talk at ArcticNet 2019. Halifax, NS.
 
-- Genomic approaches for non-invasive scat-based monitoring of polar bears. Stephen C. Lougheed, Evelyn L. Jensen, Kristen Hayward, Rute Clemente-Carvalho, Zhengxin Sun, Markus Dyck, Marsha Branigan, and Peter VC de Groot. Talk at ArcticNet 2019. Halifax, NS.
+- Jensen, E. et al. Genomic approaches for non-invasive, scat-based monitoring of polar bears across the Canadian Arctic. Joint Meeting Acadian Entomological Society, Entomological Society of Canada, Canadian Society for Ecology and Evolution. Fredericton, NB, Canada. Aug 18-21, 2019. Talk.
 
-- Genomic approaches for non-invasive, scat-based monitoring of polar bears across the Canadian Arctic. Evelyn Jensen et al. Joint Meeting Acadian Entomological Society, Entomological Society of Canada, Canadian Society for Ecology and Evolution. Fredericton, NB, Canada. Aug 18-21, 2019. Talk.
-
-- BearWatch: Monitoring climate change impacts on polar bears using genomics and Inuit knowledge. David Fawcett, T. Pearce, J. Ford, G. Whitelaw, S. Flisikowski and S. Lougheed. Poster at ArcticNet 2019. Halifax, NS.
+- Fawvett, D. et al. BearWatch: Monitoring climate change impacts on polar bears using genomics and Inuit knowledge. Poster at ArcticNet 2019. Halifax, NS.
 
 - Mapping research on Inuit Traditional Ecological Knowledge of polar bear (*Ursus maritimus*) in the Canadian Arctic.  Sarah Flisikowski, Tristan Pearce, Graham Whitelaw, Douglas Clark, James Ford and Kimberly Ovitz. Virtual talk at ArcticNet 2020.
 
