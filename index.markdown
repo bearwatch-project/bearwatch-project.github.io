@@ -35,7 +35,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 -  Boutet, V., M. Dominique, K.M. Eccles, M. Branigan, M. Dyck, P van Coeverden de Groot, S.C.. Lougheed, A, Rutter, and V.S. Langlois. 2023. An exploratory spatial contaminant assessment for polar bear (*Ursus maritimus*) liver, fat, and muscle from northern Canada. Environmental Pollution. 316(Part 2):120663. [Link to article](https://www.sciencedirect.com/science/article/abs/pii/S0269749122018772?via%3Dihub)
 
--  Tschritter, C., P. can Coeverden de Groot, M. Branigan, M. Dyck, Z. Sun, and S.C. Lougheed 2023. A new multiplexed magnetic-capture - droplet digital PCR (ddPCR) tool for monitoring wildlife population health and pathogen surveillance. Preprint: bioRxiv 2023.09.22.558950; doi: https://doi.org/10.1101/2023.09.22.558950 Accepted for publication in Ecology and Evolution. [Link to article](https://www.biorxiv.org/content/10.1101/2023.09.22.558950v1)
+-  Tschritter, C., P. can Coeverden de Groot, M. Branigan, M. Dyck, Z. Sun, and S.C. Lougheed 2023. A new multiplexed magnetic-capture - droplet digital PCR (ddPCR) tool for monitoring wildlife population health and pathogen surveillance. Ecology and Evolution. Ecology and Evolution. 13: e10655. [Link to article](https://doi.org/10.1002/ece3.10655)
 
 - James Qitsualik, William Aglukkaq, Danny Aaluk, Saskia de Wildt (2023). Voices of Thunder. Animated Graphic Documentary. 15 min.
   <br /><br />
