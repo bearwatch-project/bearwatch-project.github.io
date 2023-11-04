@@ -50,10 +50,18 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 &nbsp;  
 
 
+
+## Papers Submitted or In Progress
+
+-  Vanderluit, S.N., M-J. Fortin, P Van Coeverden de Groot, R.B.G. Clemente-Carvalho,, E.L. Jensen, Z. Sun, M. Dyck, M Branigan, and Stephen C. Lougheed. Changes in landscape and sea ice impact genetic population structure of polar bears over just two decades. In preparation.
+-  
+-  Iyare, P.U. H. Vanderlip, M. Dias, J. Provencher, S. Zhou, S.C. Lougheed, P. V. C. de Groot, G. Whitelaw, M. Branigan, M. Dyck, and D.M. Orihel. An assessment of microplastics in fecal samples from polar bears (*Ursus maritimus*) in Canada’s North. Submitted to Arctic Science.
+
+
+&nbsp;  
+
+
 ## Links to News Artcles, Videos and Other Public Media
-
-
-
 
 - Announcement from 2015 LSARP competition. Genome Canada. 2016. [Link to article](https://genomecanada.ca/project/bearwatch-monitoring-impacts-arctic-climate-change-using-polar-bears-genomics-and-traditional)
 
