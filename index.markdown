@@ -50,7 +50,6 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 &nbsp;  
 
 
-
 ## Papers Submitted or In Progress
 
 -  Vanderluit, S.N., M-J. Fortin, P Van Coeverden de Groot, R.B.G. Clemente-Carvalho,, E.L. Jensen, Z. Sun, M. Dyck, M Branigan, and Stephen C. Lougheed. Changes in landscape and sea ice impact genetic population structure of polar bears over just two decades. In preparation.
@@ -62,7 +61,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 ## Community bulletins - in English and Inuktitut
 
-- Thank you for participation and overview of toolkit in English and Inuktitut [Link to bulletin](assets/BearWatch_Toolkit_Community_Brief TRanslated_2023.pdf)
+- Thank you for participation and overview of toolkit in English and Inuktitut [Link to bulletin](assets/BearWatch_Toolkit_Community_Brief_Translated_2023.pdf)
 
 - 
 &nbsp;  
