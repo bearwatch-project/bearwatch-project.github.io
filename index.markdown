@@ -62,7 +62,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 ## Community bulletins - in English and Inuktitut
 
-- Thank you for participation and overview of toolkit in English and Inuktitut [Link to bulletin](assets/BearWatch_Toolkit_Community_Brief Translated_2023.pdf)
+- Thank you for participation and overview of toolkit in English and Inuktitut [Link to bulletin](assets/BearWatch_Toolkit_Community_Brief TRanslated_2023.pdf)
 
 - 
 &nbsp;  
