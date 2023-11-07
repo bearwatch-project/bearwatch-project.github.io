@@ -61,9 +61,12 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 ## Community bulletins - in English and Inuktitut
 
-- Thank you for participation and overview of toolkit in English and Inuktitut [Link to bulletin](assets/BearWatch_Toolkit_Community_Brief_Translated_2023.pdf)
+- Thank you for participation and overview of toolkit in English and Inuktitut [Link to PDF document](assets/BearWatch_Toolkit_Community_Brief_Translated_2023.pdf)
 
-- 
+- Bulletin on new assay for surveying pathigens in polar bears in English [Link to bulletin](assets/BearWatch_Toolkit_Community_Brief_Translated_2023.pdf)
+
+- Bulletin on new assay for surveying pathigens in polar bears in Inuktitut [Link to bulletin](assets/BearWatch_Toolkit_Community_Brief_Translated_2023.pdf)
+
 &nbsp;  
 
 ## Links to News Artcles, Videos and Other Public Media
