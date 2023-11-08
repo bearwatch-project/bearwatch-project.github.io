@@ -133,7 +133,15 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 ## Collaborators and Partners
 
-![](assets/Government_Nunavut.jpg)![](assets/Government_NWT.jpg)![](assets/Yukon.jpg)![](assets/CanadianRangersCrest_small_whitebackground.jpg)![](assets/QueensLogo_colour_small.jpg)
+![](assets/Government_Nunavut.jpg)![](assets/Government_NWT.jpg)![](assets/Yukon.jpg)![](assets/CanadianRangersCrest_small_whitebackground.jpg)
+
+&nbsp;
+
+![](assets/IGC.jpg)![](assets/GjoaHavenHTA.jpg)![](assets/AiviitHTA.jpg)
+
+&nbsp;
+
+![](assets/QueensLogo_colour_small.jpg)
 
 &nbsp;
 
@@ -143,7 +151,6 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 
 If you have questions please contact: Peter VC de Groot - <degrootp@queensu.ca>, Graham Whitelaw - <whitelaw@queensu.ca> or Stephen Lougheed <steve.lougheed@queensu.ca>
-
 
 &nbsp;  
 
