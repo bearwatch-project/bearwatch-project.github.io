@@ -131,13 +131,19 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;  
 
+## Collaborators and Partners
+
+
+&nbsp;  
+
+
+
 If you have questions please contact: Peter VC de Groot - <degrootp@queensu.ca>, Graham Whitelaw - <whitelaw@queensu.ca> or Stephen Lougheed <steve.lougheed@queensu.ca>
 
 
 &nbsp;  
 
 *Last updated 10 October 2023*
-
 
 
 ![](assets/gc.png) ![](assets/og.png)
