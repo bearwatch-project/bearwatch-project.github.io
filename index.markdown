@@ -133,7 +133,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 ## Collaborators and Partners
 
-![](assets/Government_Nunavut.jpg)![](assets/Government_NWT.jpg)![](assets/Yukon.jpg)![](assets/CanadianRangersCrest_small_whitebackground.jpg)
+![](assets/Government_Nunavut.jpg) &nbsp; ![](assets/Government_NWT.jpg) &nbsp; ![](assets/Yukon.jpg) &nbsp; ![](assets/CanadianRangersCrest_small_whitebackground.jpg)
 
 &nbsp;
 
@@ -141,7 +141,11 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/IGC.jpg) ![](assets/QueensLogo_colour_small.jpg) 
+![](assets/IGC.jpg) &nbsp; ![](assets/QueensLogo_colour_small.jpg) &nbsp; ![](assets/Toronto.jpg) &nbsp; ![](assets/McGill.jpg) 
+
+&nbsp;
+
+![](assets/INRS.jpg) &nbsp; ![](assets/Trent.jpg) &nbsp; ![](assets/UNBC.jpg)
 
 &nbsp;
 
