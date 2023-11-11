@@ -153,7 +153,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/UBC.jpg) &nbsp; &nbsp; ![](assets/Aarhus.jpg)
+![](assets/UBC.jpg) &nbsp; ![](assets/Aarhus.jpg)
 
 &nbsp;
 
@@ -161,7 +161,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/Norsk.jpg) 
+![](assets/Norsk.jpg)
 
 &nbsp;
 
