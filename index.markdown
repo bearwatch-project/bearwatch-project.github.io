@@ -157,7 +157,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/ChurshillCentre.jpg) &nbsp; ![](assets/ChurchillTown.jpg)
+![](assets/ChurchillCentre.jpg) &nbsp; ![](assets/ChurchillTown.jpg)
 
 &nbsp;
 
