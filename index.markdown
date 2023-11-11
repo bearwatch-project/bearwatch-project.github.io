@@ -137,35 +137,31 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/GjoaHavenHTA.jpg) &nbsp; ![](assets/AiviitHTA.jpg)
+![](assets/GjoaHavenHTA.jpg) &nbsp; &nbsp; ![](assets/AiviitHTA.jpg)
 
 &nbsp;
 
-![](assets/IGC.jpg) &nbsp; ![](assets/QueensLogo_colour_small.jpg) &nbsp; ![](assets/Toronto.jpg) &nbsp;  
+![](assets/IGC.jpg) &nbsp; &nbsp; ![](assets/QueensLogo_colour_small.jpg) &nbsp; &nbsp; ![](assets/Toronto.jpg) &nbsp;  
 
 &nbsp;
 
-![](assets/McGill.jpg) &nbsp; ![](assets/INRS.jpg) &nbsp; 
+![](assets/McGill.jpg) &nbsp; &nbsp; ![](assets/INRS.jpg) &nbsp; 
 
 &nbsp;
 
-![](assets/Trent.jpg) &nbsp; ![](assets/UNBC.jpg) &nbsp; ![](assets/Calgary.jpg)
+![](assets/Trent.jpg) &nbsp; &nbsp; ![](assets/UNBC.jpg) &nbsp; &nbsp; ![](assets/Calgary.jpg)
 
 &nbsp;
 
-![](assets/UBC.jpg) &nbsp; ![](assets/Aarhus.jpg)
+![](assets/UBC.jpg) &nbsp; &nbsp; ![](assets/Aarhus.jpg)
 
 &nbsp;
 
-![](assets/ChurchillCentre.jpg) &nbsp; ![](assets/ChurchillTown.jpg)
+![](assets/ChurchillCentre.jpg) &nbsp; &nbsp; ![](assets/ChurchillTown.jpg)
 
 &nbsp;
 
-![](assets/Norsk.jpg) 
-
-&nbsp;
-
-![](assets/CIRNAC.jpg)
+![](assets/Norsk.jpg) &nbsp; ![](assets/CIRNAC.jpg)
 
 &nbsp;  
 
