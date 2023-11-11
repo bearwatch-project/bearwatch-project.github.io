@@ -141,11 +141,15 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/IGC.jpg) &nbsp; ![](assets/QueensLogo_colour_small.jpg) &nbsp; ![](assets/Toronto.jpg) &nbsp; ![](assets/McGill.jpg) 
+![](assets/IGC.jpg) &nbsp; ![](assets/QueensLogo_colour_small.jpg) &nbsp; ![](assets/Toronto.jpg) &nbsp;  
 
 &nbsp;
 
-![](assets/INRS.jpg) &nbsp; ![](assets/Trent.jpg) &nbsp; ![](assets/UNBC.jpg)
+![](assets/McGill.jpg) &nbsp; ![](assets/INRS.jpg) &nbsp; 
+
+&nbsp;
+
+![](assets/Trent.jpg) &nbsp; ![](assets/UNBC.jpg)
 
 &nbsp;
 
