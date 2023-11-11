@@ -149,7 +149,15 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/Trent.jpg) &nbsp; ![](assets/UNBC.jpg)
+![](assets/Trent.jpg) &nbsp; ![](assets/UNBC.jpg) &nbsp; ![](assets/Calgary.jpg)
+
+&nbsp;
+
+![](assets/UBC.jpg) &nbsp; ![](assets/Aarhus.jpg)
+
+&nbsp;
+
+![](assets/ChurshillCentre.jpg) &nbsp; ![](assets/ChurchillTown.jpg)
 
 &nbsp;
 
