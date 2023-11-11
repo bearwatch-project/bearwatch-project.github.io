@@ -161,7 +161,11 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;
 
-![](assets/Norsk.jpg) &nbsp; ![](assets/CIRNAC.jpg)
+![](assets/Norsk.jpg) 
+
+&nbsp;
+
+![](assets/CIRNAC.jpg)
 
 &nbsp;  
 
