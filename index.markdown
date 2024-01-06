@@ -115,7 +115,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 - Jensen, E. et al. Genomic approaches for non-invasive, scat-based monitoring of polar bears across the Canadian Arctic. Joint Meeting Acadian Entomological Society, Entomological Society of Canada, Canadian Society for Ecology and Evolution. Fredericton, NB, Canada. Aug 18-21, 2019. Talk.
 
-- Fawvett, D. et al. BearWatch: Monitoring climate change impacts on polar bears using genomics and Inuit knowledge. Poster at ArcticNet 2019. Halifax, NS.
+- Fawcett, D. et al. BearWatch: Monitoring climate change impacts on polar bears using genomics and Inuit knowledge. Poster at ArcticNet 2019. Halifax, NS.
 
 - Mapping research on Inuit Traditional Ecological Knowledge of polar bear (*Ursus maritimus*) in the Canadian Arctic.  Sarah Flisikowski, Tristan Pearce, Graham Whitelaw, Douglas Clark, James Ford and Kimberly Ovitz. Virtual talk at ArcticNet 2020.
 
