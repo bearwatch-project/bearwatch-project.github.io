@@ -18,9 +18,9 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 &nbsp;  
 
-## Published Papers, Reports and Other Outputs
+## Published or In Press Papers, Reports and Other Outputs
 
-
+-  Iyare, P.U. H. Vanderlip, M. Dias, J. Provencher, S. Zhou, S.C. Lougheed, P. V. C. de Groot, G. Whitelaw, M. Branigan, M. Dyck, and D.M. Orihel. An assessment of microplastics in fecal samples from polar bears (*Ursus maritimus*) in Canada’s North. Accepted in Arctic Science.
 
 - Jensen, E.L., C. Tschritter, P.V.C. de Groot, K.M. Hayward*, M. Branigan, M. Dyck and S.C. Lougheed. 2020. Canadian polar bear population structure using genome-wide markers. Ecology and Evolution. Mar 24;10(8):3706-3714. [Link to article](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6159)
 
@@ -32,7 +32,6 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 - Saskia de Wildt (2022). Exploring Polar Bear Research as Ethical Space, Practice and Process of Engagement (between science and Inuit Knowledge). Podcast. UNESCO RILA UoG [Link to podcast](https://soundcloud.com/unescorila/e31-saskia-on-polar-bears)
 
-
 -  Boutet, V., M. Dominique, K.M. Eccles, M. Branigan, M. Dyck, P van Coeverden de Groot, S.C.. Lougheed, A, Rutter, and V.S. Langlois. 2023. An exploratory spatial contaminant assessment for polar bear (*Ursus maritimus*) liver, fat, and muscle from northern Canada. Environmental Pollution. 316(Part 2):120663. [Link to article](https://www.sciencedirect.com/science/article/abs/pii/S0269749122018772?via%3Dihub)
 
 -  Tschritter, C., P. can Coeverden de Groot, M. Branigan, M. Dyck, Z. Sun, and S.C. Lougheed 2023. A new multiplexed magnetic-capture - droplet digital PCR (ddPCR) tool for monitoring wildlife population health and pathogen surveillance. Ecology and Evolution. Ecology and Evolution. 13: e10655. [Link to article](https://doi.org/10.1002/ece3.10655)
@@ -40,6 +39,8 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 - James Qitsualik, William Aglukkaq, Danny Aaluk, Saskia de Wildt (2023). Voices of Thunder. Animated Graphic Documentary. 15 min.
   <br /><br />
   <iframe width="560" height="315" src="https://www.youtube.com/embed/AldTCF73qp8?si=rTGxYDykyWufDE3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Featured at the Yukon Light Film Festival. [Link to festival web page]( https://yukonfilmsociety.com/alff/about)
 
 &nbsp;
 
