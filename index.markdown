@@ -19,7 +19,7 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 &nbsp;  
 
 ## Published or In Press Papers, Reports and Other Outputs
-
+  
 -  Iyare, P.U. H. Vanderlip, M. Dias, J. Provencher, S. Zhou, S.C. Lougheed, P. V. C. de Groot, G. Whitelaw, M. Branigan, M. Dyck, and D.M. Orihel. An assessment of microplastics in fecal samples from polar bears (*Ursus maritimus*) in Canada’s North. Accepted in Arctic Science.
 
 - Jensen, E.L., C. Tschritter, P.V.C. de Groot, K.M. Hayward*, M. Branigan, M. Dyck and S.C. Lougheed. 2020. Canadian polar bear population structure using genome-wide markers. Ecology and Evolution. Mar 24;10(8):3706-3714. [Link to article](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6159)
@@ -52,6 +52,8 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 
 ## Papers Submitted or In Progress
+
+- Eccles, K.M., V. Boutet. M. Branigan, M. Dyck, P. van Coeverden de Groot, S.C. Lougheed, A. Rutter, and V.S. Langlois. 2024, Non-invasive biomonitoring of polar bear feces can be used to estimate concentrations of metals of concern in traditional food. Environmental Health Perspectives. In review.
 
 -  Vanderluit, S.N., M-J. Fortin, P Van Coeverden de Groot, R.B.G. Clemente-Carvalho,, E.L. Jensen, Z. Sun, M. Dyck, M Branigan, and Stephen C. Lougheed. Changes in landscape and sea ice impact genetic population structure of polar bears over just two decades. In preparation.
   
