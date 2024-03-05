@@ -42,12 +42,6 @@ BearWatch seeks to create an alternate way to monitor polar bears across the Can
 
 - Featured at the Yukon Light Film Festival. [Link to festival web page]( https://yukonfilmsociety.com/alff/about)
 
-&nbsp;
-
-- The BearWatch Toolkit. Overview of Genomics Tools for Non-invasive Monitoring. Documentary produced by Pinegrove Productions 10 min.
-  <br /><br />
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/xO96NxWSaLc" title="The Bearwatch Toolkit. Genomics tools for non-invasive monitoring of polar bears across the Arctic." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 &nbsp;  
 
 
